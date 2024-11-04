@@ -20,4 +20,3 @@ Kali ini kita akan membuat layout web menggunakan Twitter Bootstrap. Bootstrap a
 
 ![5](/screenshots/2.jpg)
 ![6](/screenshots/3.jpg)
-![7](/screenshots/4.jpg)
