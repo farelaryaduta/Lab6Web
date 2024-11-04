@@ -2,6 +2,7 @@
 
 ## Membuat Layout Web Menggunakan Twitter Bootstrap
 Kali ini kita akan membuat layout web menggunakan Twitter Bootstrap. Bootstrap adalah framework CSS yang populer digunakan untuk membuat layout web seperti gambar berikut :
+
 ![0](/screenshots/1.jpg)
 
 >> Langkah pertama, install Twitter Bootstrap melalui CDN dan masukkan pada bagian head, juga tambahkan warna keinginan seperti berikut :
